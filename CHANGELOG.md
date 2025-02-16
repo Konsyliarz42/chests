@@ -7,6 +7,11 @@ and this project adheres to [Semantic Versioning](http://semver.org/).
 
 ## [Unreleased]
 
+## [1.1.0] - 16.02.2025
+
+- Christmas chest
+- Double christmas chest
+
 ## [1.0.0] - 09.02.2025
 
 ### Added
@@ -16,5 +21,6 @@ and this project adheres to [Semantic Versioning](http://semver.org/).
 - Trapped chest
 - Double trapped chest
 
-[Unreleased]: https://github.com/Konsyliarz42/chests/compare/1.0.0...master
+[Unreleased]: https://github.com/Konsyliarz42/chests/compare/1.1.0...master
+[1.1.0]: https://github.com/Konsyliarz42/chests/compare/1.0.0...1.1.0
 [1.0.0]: https://github.com/Konsyliarz42/chests/tree/1.0.0
