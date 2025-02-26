@@ -7,7 +7,27 @@ and this project adheres to [Semantic Versioning](http://semver.org/).
 
 ## [Unreleased]
 
+### Added
+
+- Birch chest
+- Double birch chest
+- Spruce chest
+- Double spruce chest
+- Jungle chest
+- Double jungle chest
+
+### Changed
+
+- Readme
+  
+### Fixed
+
+- Normal double chest (right)
+- Double trapped chest (right)
+
 ## [1.1.0] - 16.02.2025
+
+### Added
 
 - Christmas chest
 - Double christmas chest

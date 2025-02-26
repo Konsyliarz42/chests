@@ -26,14 +26,22 @@ Features:
 - Christmas chest ✔️
 - Double christmas chest ✔️
 - Wood variant chest:
-  - Oak ✨
-  - Spruce ✨
-  - Birch ✨
-  - Jungle ✨
-  - Acacia
-  - Dark Oak
-  - Mangrove
-  - Cherry
-  - Pale Oak
-  - Crimson
-  - Warped
+
+  > [!WARNING] Warning
+  > [[ETF] Entity Texture Features](https://modrinth.com/mod/entitytexturefeatures) is required for this feature. \
+  > In case of problems, check the [special cases for custom blok entities](https://github.com/Traben-0/Entity_Texture_Features/wiki/random-entity-textures#special-cases).
+
+  > Use anvil on chest to change chest variant. \
+  > _Example: "Spruce Chest"_
+
+  - Oak ✔️
+  - Spruce ✔️
+  - Birch ✔️
+  - Jungle ✔️
+  - Acacia ✨
+  - Dark Oak ✨
+  - Mangrove ✨
+  - Cherry ✨
+  - Pale Oak ✨
+  - Crimson ✨
+  - Warped ✨
