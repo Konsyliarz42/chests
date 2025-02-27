@@ -25,12 +25,12 @@ def add_file_to_zip(zip: ZipFile, file: Path) -> None:
 
 
 def create_zip_file(zip_name: str, zip_content: list[Path]) -> None:
-    with ZipFile(zip_name, "w") as zip_file:
+    with ZipFile(zip_name, "w") as zip:
         for target in zip_content:
             if target.is_dir():
-                [add_file_to_zip(zip_file, file) for file in target.glob("**/*") if file.is_file()]
+                [add_file_to_zip(zip, file) for file in target.glob("**/*") if file.is_file()]
             else:
-                add_file_to_zip(zip_file, target)
+                add_file_to_zip(zip, target)
 
 
 if __name__ == "__main__":
