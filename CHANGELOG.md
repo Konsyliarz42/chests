@@ -7,6 +7,37 @@ and this project adheres to [Semantic Versioning](http://semver.org/).
 
 ## [Unreleased]
 
+### Added
+
+- Acacia chest
+- Cherry chest
+- Crimson chest
+- Dark oak chest
+- Double acacia chest
+- Double cherry chest
+- Double crimson chest
+- Double dark oak chest
+- Double mangrove chest
+- Double pale oak chest
+- Double trapped acacia chest
+- Double trapped cherry chest
+- Double trapped crimson chest
+- Double trapped dark oak chest
+- Double trapped mangrove chest
+- Double trapped pale oak chest
+- Double trapped warped chest
+- Double warped chest
+- Mangrove chest
+- Pale oak chest
+- Trapped acacia chest
+- Trapped cherry chest
+- Trapped crimson chest
+- Trapped dark oak chest
+- Trapped mangrove chest
+- Trapped pale oak chest
+- Trapped warped chest
+- Warped chest
+
 ## [1.2.0] - 27.02.2025
 
 ### Added

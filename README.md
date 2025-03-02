@@ -38,10 +38,10 @@ Features:
   - Spruce ✔️
   - Birch ✔️
   - Jungle ✔️
-  - Acacia ✨
-  - Dark Oak ✨
-  - Mangrove ✨
-  - Cherry ✨
-  - Pale Oak ✨
-  - Crimson ✨
-  - Warped ✨
+  - Acacia ✔️
+  - Dark Oak ✔️
+  - Mangrove ✔️
+  - Cherry ✔️
+  - Pale Oak ✔️
+  - Crimson ✔️
+  - Warped ✔️
