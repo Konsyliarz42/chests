@@ -7,6 +7,8 @@ and this project adheres to [Semantic Versioning](http://semver.org/).
 
 ## [Unreleased]
 
+## [1.3.0] - 03.03.2025
+
 ### Added
 
 - Acacia chest
@@ -79,7 +81,8 @@ and this project adheres to [Semantic Versioning](http://semver.org/).
 - Trapped chest
 - Double trapped chest
 
-[Unreleased]: https://github.com/Konsyliarz42/chests/compare/1.2.0...master
-[1.1.0]: https://github.com/Konsyliarz42/chests/compare/1.1.0...1.2.0
+[Unreleased]: https://github.com/Konsyliarz42/chests/compare/1.3.0...master
+[1.3.0]: https://github.com/Konsyliarz42/chests/compare/1.2.0...1.3.0
+[1.2.0]: https://github.com/Konsyliarz42/chests/compare/1.1.0...1.2.0
 [1.1.0]: https://github.com/Konsyliarz42/chests/compare/1.0.0...1.1.0
 [1.0.0]: https://github.com/Konsyliarz42/chests/tree/1.0.0

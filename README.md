@@ -45,3 +45,6 @@ Features:
   - Pale Oak ✔️
   - Crimson ✔️
   - Warped ✔️
+
+- Inventory icons for wood variant chest ✨
+- More christmas chests
